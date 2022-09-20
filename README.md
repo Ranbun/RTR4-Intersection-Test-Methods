@@ -1,2 +1,2 @@
-# RTR4-Intersection-Test-Methods
-Chapter 22
+# RTR4-
+Chapter 22Intersection-Test-Methods
